@@ -23,7 +23,7 @@ Dementia is not considered a normal sequela of aging and prevention should be th
 
 In cognitively healthy people aged 65 or older, there was some evidence from the included studies to suggest that 12 or more weeks of computerized cognitive training may improve cognition
 
-![Table1](/blog/assets/Table1.PNG)
+![Table1](/devblog/assets/Table1.PNG)
 
 Processing speed training resulted in reduced dementia risk (hazard ratio [HR] 0.71 (95% CI 0.50–0.99), p=0.049) compared to control, but memory and reasoning training generated no signifcant risk reduction (HR 0.79 (0.57–1.11), p=0.18 and HR0.79 (0.56–1.10), p=0.16, respectively)
 
