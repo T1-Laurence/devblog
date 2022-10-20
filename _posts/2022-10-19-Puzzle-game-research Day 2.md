@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mobile Puzzle Game Research #2"
+title:  "IMPORTANT Key Points for Mobile Game #2"
 date:   2022-10-12 23:13:06 -0400
 categories: research
 ---
@@ -11,7 +11,7 @@ categories: research
 
 ![image](/devblog/assets/grocerycalculation.png)
 
-by 조영 from Tres Fellas Inc.
+by Joyoung from Tres Fellas Inc.
 
 ---
 

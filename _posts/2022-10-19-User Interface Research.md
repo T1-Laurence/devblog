@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Interface Research"
+title:  "Click This If You Care About Mobile Game UI #1"
 date:   2022-10-18 23:13:06 -0400
 categories: research
 ---
