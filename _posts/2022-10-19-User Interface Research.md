@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "User Interface Research"
-date:   2022-10-19 23:13:06 -0400
+date:   2022-10-18 23:13:06 -0400
 categories: research
 ---
 
