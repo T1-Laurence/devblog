@@ -9,7 +9,7 @@ categories: research
 
 >"Five Fundamental Arithmetic Operation aka **FFAO**"
 
-![image]()
+![image](/devblog/assets/grocerycalculation.png)
 
 by 조영 from Tres Fellas Inc.
 
