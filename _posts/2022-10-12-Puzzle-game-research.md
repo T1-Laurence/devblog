@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 Research"
+title:  "Mobile Puzzle Game Research #1"
 date:   2022-10-12 23:13:06 -0400
 categories: research
 ---
