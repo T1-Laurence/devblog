@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mobile Game Important Element"
-date:   2022-10-26 17:13:06 -0400
+date:   2022-10-25 17:13:06 -0400
 categories: research
 ---
 
