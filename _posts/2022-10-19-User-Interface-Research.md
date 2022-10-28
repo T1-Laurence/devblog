@@ -5,7 +5,7 @@ date:   2022-10-18 23:13:06 -0400
 categories: research
 ---
 
->This page is UI Design Research for the Mobile Puzzle Game. These are the [Link1](https://t1-laurence.github.io/devblog/research/2022/10/13/Puzzle-game-research-Day-1.html) [Link2](https://t1-laurence.github.io/devblog/research/2022/10/13/Puzzle-game-research-Day-2.htmlw)
+>This page is UI Design Research for the Mobile Puzzle Game. These are the [Link1](https://t1-laurence.github.io/devblog/research/2022/10/13/Puzzle-game-research-Day-1.html) [Link2](https://t1-laurence.github.io/devblog/research/2022/10/13/Puzzle-game-research-Day-2.html)
 
 ### UI Design Ideas for Mobile Puzzle Game
 

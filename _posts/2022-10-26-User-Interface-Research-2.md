@@ -14,7 +14,7 @@ Our team discussed about the title of the game. We decided the title as "Mondria
 1. Since the game screen shows similar color to the famous artist Mondriann's painting, and
 2. The game is mostly about calculation.
 
-<img src=/devblog/assets/mondriann.png width="300" height="300" style="display: block; margin: 0 auto"/>
+<img src="/devblog/assets/mondriann.png" width=”300” height=”300” style="display: block; margin: 0 auto"/>
 
 ---
 
@@ -29,7 +29,7 @@ We decided to make the program make a sound when:
 2. Make a different type of sounds when the answer either is right or wrong.
 3. The user completes the round, make a funny sound such as "Kachow"
 
-<img src=/devblog/assets/sound-effect-image.png width="300" height="300" style="display: block; margin: 0 auto"/>
+<img src="/devblog/assets/sound-effect-image.png" width="300" height="300" style="display: block; margin: 0 auto"/>
 
 ---
 
