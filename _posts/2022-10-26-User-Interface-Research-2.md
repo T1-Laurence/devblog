@@ -14,7 +14,7 @@ Our team discussed about the title of the game. We decided the title as "Mondria
 1. Since the game screen shows similar color to the famous artist Mondriann's painting, and
 2. The game is mostly about calculation.
 
-<img src="/devblog/assets/mondriann.png" width=”300” height=”300” style="display: block; margin: 0 auto"/>
+<img src="/devblog/assets/mondriann.png" width="300" height="300" style="display: block; margin: 0 auto"/>
 
 ---
 
