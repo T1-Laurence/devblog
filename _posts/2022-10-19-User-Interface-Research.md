@@ -22,6 +22,8 @@ The Process of driving and ending games in the app is largely divided into five 
         - 'Other Puzzle'
 5. If the user select 'Home', the screen will show the main home of the app
 
+<img src="/blog/assets/frame10.png" width="600" height="300" style="display: block; margin: 0 auto"/>
+
 ---
 
 ### Other Ideas
