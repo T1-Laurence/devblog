@@ -33,7 +33,7 @@ From line 44 to 54 is information of the text such as size, color, and layout of
 
 > If I click line 43, on the design tab, it will show that I selected the text.
 
-<img src="/devblog/assets/androidstudiopalettetimetext.png" width="450" height="250" style="display: block; margin: 0 auto"/>
+<img src="/devblog/assets/androidstudiopalettetimetext.png" width="450" height="460" style="display: block; margin: 0 auto"/>
 
 
 Line 54 is a margin of the text in top.
