@@ -17,7 +17,7 @@ Before entering the dungeon and kill the evil dragon, you have master your skill
 
 First, add text and image by using the palette.
 
-![image](/blog/assets/androidstudiopalette.png)
+<img src="/devblog/assets/androidstudiopalette.png" width="450" height="450" style="display: block; margin: 0 auto"/>
 
 I added texts for the 'time', 'playing game', and 'replay'.
 However, the texts are not on the location I want, so adjustments by coding was required.
@@ -29,11 +29,12 @@ However, the texts are not on the location I want, so adjustments by coding was 
 The Yellow Text on line 43 is the 'time' text on the screen.
 From line 44 to 54 is information of the text such as size, color, and layout of the text.
 
-![image](/blog/assets/androidstudiocodingtimetext.png)
+<img src="/devblog/assets/androidstudiocodingtimetext.png" width="450" height="250" style="display: block; margin: 0 auto"/>
 
 > If I click line 43, on the design tab, it will show that I selected the text.
 
-![image](/blog/assets/androidstudiopalettetimetext.png)
+<img src="/devblog/assets/androidstudiopalettetimetext.png" width="450" height="250" style="display: block; margin: 0 auto"/>
+
 
 Line 54 is a margin of the text in top.
     - It is 140dp from the top.
